@@ -18,23 +18,6 @@ This project focuses on classifying skin lesions into 7 types using deep learnin
 
 ✅ Ready for Deployment with Streamlit or Flask
 
-🗂️ Folder Structure
-
-SkinLesion-Classification/
-├── model/
-│   └── saved_skinlesionmodel.h5
-├── dataset/
-│   ├── HAM10000_metadata.csv
-│   └── HAM10000_images/
-├── src/
-│   ├── train.py
-│   └── predict.py
-├── deploy/
-│   └── app.py (for Streamlit or Flask deployment)
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 📦 Installation
 
 pip install -r requirements.txt
